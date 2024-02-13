@@ -1,5 +1,11 @@
-python-dotenv == 1.0.1
-requests == 2.31.0
-sqlalchemy == 2.0.25
+python-dotenv
+requests 
+sqlalchemy 
+pandas 
+sqlalchemy
 pandas 
 psycopg2 
+DateTime
+Smtplib
+os
+Time
